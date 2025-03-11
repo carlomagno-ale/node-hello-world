@@ -1,0 +1,20 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "watch":"node --watch index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlomagno-ale/node-hello-world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlomagno-ale/node-hello-world/issues"
+  },
+  "homepage": "https://github.com/carlomagno-ale/node-hello-world#readme",
+  "description": ""
+}
